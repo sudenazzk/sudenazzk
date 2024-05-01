@@ -1,4 +1,4 @@
-- 👋 Merhaba, ben sudenaz
+- 👋 Merhaba, ben sudenaz, bilgisayar mühendisliği 2.sınıf öğrencisiyim
 - 👀 programlamaya ilgim var
 - 🌱 şuanda c# ve Python öğreniyorum 
 - 💞️ farklı proje fikirlerine açığım 
