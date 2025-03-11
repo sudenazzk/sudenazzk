@@ -1,5 +1,5 @@
 - 👋 Merhaba, ben sudenaz
 - 👀 programlamaya ilgim var
-- 🌱 şuanda c# ve Python öğreniyorum 
+- 🌱 şuanda gömülü sistemler üzerine çalışıyorum.
+- Mobil uygulama ve masaüstü uygulama geliştiriyorum.
 - 💞️ farklı proje fikirlerine açığım 
-
