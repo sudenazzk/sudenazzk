@@ -2,4 +2,4 @@
 - 👀 programlamaya ilgim var
 - 🌱 şuanda gömülü sistemler üzerine çalışıyorum.
 - Mobil uygulama ve masaüstü uygulama geliştiriyorum.
-- 💞️ farklı proje fikirlerine açığım 
+- 💞️ Bunun yanında makine öğrenmesi çalışıyorum, yapay zeka alanında projeler geliştirmek istiyorum.
